@@ -2,7 +2,7 @@
   "name": "survey-bull",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://surveybull.github.io/surveybull.github.io",
+  "homepage": "https://kr-suraja.github.io/practice/",
   "type": "module",
   "scripts": {
     "dev": "vite",
